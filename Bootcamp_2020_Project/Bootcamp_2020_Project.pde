@@ -9,7 +9,7 @@ boolean inPlayMode;
 int pickedCircle;
 
 
-int Size = 7;//size of the arrays
+int Size = 10;//size of the arrays
 boolean [] circmove = new boolean[Size];
 float [] diameters = new float[Size];
 float[] xps = new float[Size];
